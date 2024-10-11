@@ -1,0 +1,16 @@
+.carousel-item img {
+    object-fit: cover;
+    width:650px;
+    height:500px;
+  }
+.card-text{
+    color: green;
+}
+#products.card{
+    display:grid;
+    column-gap: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
